@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Programming Languages](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=anaconda,docker,gcp,github,py,r)](https://skillicons.dev)
 
