@@ -15,5 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<p align="left">
+  <a href="https://github.com/denryu07">
+    <img height="20" src="https://komarev.com/ghpvc/?username=denryu07" />
+  </a>
+  <a href="https://github.com/denryu07">
+    <img height="20" src="https://img.shields.io/github/followers/denryu07?label=follow&logo=github&style=flat" />
+</p>
+
+
 [![Programming Languages](https://skillicons.dev/icons?i=anaconda,docker,gcp,github,py,r)](https://skillicons.dev)
 
